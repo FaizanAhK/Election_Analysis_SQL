@@ -1,5 +1,5 @@
 # Election_Analysis_SQL
-This is a SQL based INDIAN 2024 Election Analysis Project made for determining the outcomes of the 2024 India Election.
+This is a SQL based  REAL TIME INDIA 2024 Election Analysis Project made for determining the outcomes of the 2024 India Election.
 
 The Election Data was fetched from Kaggle Dataset in the form of CSV file.
 
