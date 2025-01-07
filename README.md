@@ -3,9 +3,12 @@ This is a SQL based INDIAN 2024 Election Analysis Project made for determining t
 
 The Election Data was fetched from Kaggle Dataset in the form of CSV file.
 
-The Dataset consists of : Constituency-wise details, results, 
-                          Party-wise resuts, 
-                          States and State-wise results.
+The Dataset consists of : 
+     1) Constituency-wise details, results, 
+     2) Party-wise resuts, 
+     3) States and State-wise results.
+
+
 GOALS:- 
 The outcome generated from the election dataset showed results such as:
                                                                       1)  the Winning Candidate, 
